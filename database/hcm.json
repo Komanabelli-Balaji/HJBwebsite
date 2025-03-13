@@ -2,7 +2,7 @@
     "hcms": [
         {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/jyothiraditya.jpg",
+            "imgSrc": "/assets/hcm25/jyothiraditya.jpg",
             "name": "SSVKSS Jyothiraditya",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/profile.php?id=100082880005752",
@@ -10,7 +10,7 @@
             "email_link": "mailto:jyothiraditya29@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/soham.jpg",
+            "imgSrc": "/assets/hcm25/soham.jpg",
             "name": "Soham Mandal",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/profile.php?id=100010786874605",
@@ -18,7 +18,7 @@
             "email_link": "mailto:mandal.soham01@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/Jiten.png",
+            "imgSrc": "/assets/hcm25/Jiten.png",
             "name": "Jiten Shah",
             "position": "General Secretary Alumni Affairs",
             "f_link": "https://www.facebook.com/profile.php?id=100087120487589",
@@ -26,7 +26,7 @@
             "email_link": "mailto:shahjiten1802@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/jatin.jpg",
+            "imgSrc": "/assets/hcm25/jatin.jpg",
             "name": "Jatin Toshniwal",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/birdichand.toshniwal.1",
@@ -34,7 +34,7 @@
             "email_link": "mailto:jatintoshniwal05@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/dilip.jpg",
+            "imgSrc": "/assets/hcm25/dilip.jpg",
             "name": "Dilip Kumar Rewar",
             "position": "General Secretary Social and Cultural",
             "f_link": "https://www.facebook.com/profile.php?id=100087413516650",
@@ -42,7 +42,7 @@
             "email_link": "mailto:tgnr890@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/Bhavesh.jpeg",
+            "imgSrc": "/assets/hcm25/Bhavesh.jpeg",
             "name": "Bhavesh Pabnani",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/profile.php?id=100087666813728",
@@ -50,7 +50,7 @@
             "email_link": "mailto:bhaveshpabnani@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/BojjaManish.jpeg",
+            "imgSrc": "/assets/hcm25/BojjaManish.jpeg",
             "name": "Bojja Manish",
             "position": "General Secretary Maintenance",
             "f_link": "https://www.facebook.com/manishkumar.b.31",
@@ -58,7 +58,7 @@
             "email_link": "mailto:manishbojja56@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/ManishLamoria.jpg",
+            "imgSrc": "/assets/hcm25/ManishLamoria.jpg",
             "name": "Manish Lamoria",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/profile.php?id=100087641613687",
@@ -66,7 +66,7 @@
             "email_link": "mailto:manlamoria22@gmail.com"
         }, {
             "year": 2025,
-            "imgSrc": "../assets/hcm25/AdityaAgarwal.jpeg",
+            "imgSrc": "/assets/hcm25/AdityaAgarwal.jpeg",
             "name": "Aditya Agarwal",
             "position": "General Secretary Mess",
             "f_link": "",
@@ -74,7 +74,7 @@
             "email_link": "mailto:tyadi3110@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/NishithRamanuj.jpg",
+            "imgSrc": "/assets/hcm24/NishithRamanuj.jpg",
             "name": "Nishith Ramanuj",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/Nishith77777777",
@@ -82,7 +82,7 @@
             "email_link": "mailto:nishithramanuj9@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/Kshamit.jpg",
+            "imgSrc": "/assets/hcm24/Kshamit.jpg",
             "name": "Kshamit Bombarde",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/kshamit.bombarde",
@@ -90,7 +90,7 @@
             "email_link": "mailto:kshamitaab10@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/moulik.jpg",
+            "imgSrc": "/assets/hcm24/moulik.jpg",
             "name": "Moulik Kumar",
             "position": "General Secretary Alumni Affairs",
             "f_link": "https://www.facebook.com/profile.php?id=100075174954901",
@@ -98,7 +98,7 @@
             "email_link": "mailto:moulikk33@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/malothro.jpg",
+            "imgSrc": "/assets/hcm24/malothro.jpg",
             "name": "Malothro Mena",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/malothro.mena.7",
@@ -106,7 +106,7 @@
             "email_link": "mailto:malothromena@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/rohan.jpg",
+            "imgSrc": "/assets/hcm24/rohan.jpg",
             "name": "Rohan Dungriyal",
             "position": "General Secretary Social and Cultural",
             "f_link": "https://www.facebook.com/profile.php?id=100091390869291",
@@ -114,7 +114,7 @@
             "email_link": "mailto:rohan.dungriyal98@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/KumarDivyanshu.jpg",
+            "imgSrc": "/assets/hcm24/KumarDivyanshu.jpg",
             "name": "Kumar Divyanshu",
             "position": "General Secretary Technology",
             "f_link": "",
@@ -122,7 +122,7 @@
             "email_link": "mailto:kumardivyanshu6955@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/soham.jpg",
+            "imgSrc": "/assets/hcm24/soham.jpg",
             "name": "Soham Mandal",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/profile.php?id=100010786874605",
@@ -130,7 +130,7 @@
             "email_link": "mailto:mandal.soham01@gmail.com"
         }, {
             "year": 2024,
-            "imgSrc": "../assets/hcm24/Hemanth.jpg",
+            "imgSrc": "/assets/hcm24/Hemanth.jpg",
             "name": "Hemanth Gunnu",
             "position": "General Secretary Mess",
             "f_link": "https://www.facebook.com/hemanth.gunnu.5",
@@ -138,7 +138,7 @@
             "email_link": "mailto:hemanthgunnu2004@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/bSampath.png",
+            "imgSrc": "/assets/hcm23/bSampath.png",
             "name": "Boda Sampath",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/sampathnayak.nayak.39",
@@ -146,7 +146,7 @@
             "email_link": "mailto:sampathboda1105@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/jSardhar.png",
+            "imgSrc": "/assets/hcm23/jSardhar.png",
             "name": "Jarpula Sardhar",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/jarupula.s.naik",
@@ -154,7 +154,7 @@
             "email_link": "mailto:jarpulasardhar@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/aorkodeep.jpg",
+            "imgSrc": "/assets/hcm23/aorkodeep.jpg",
             "name": "Aorkodeep Mandal",
             "position": "General Secretary Alumni Affairs",
             "f_link": "https://www.facebook.com/Aorkodeep",
@@ -162,7 +162,7 @@
             "email_link": "mailto:mandal.aorkodeep@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/priyanshu.jpg",
+            "imgSrc": "/assets/hcm23/priyanshu.jpg",
             "name": "Priyanshu Gautam",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/priyanshu.gautam.35",
@@ -170,7 +170,7 @@
             "email_link": "mailto:priyanshugautam4801@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/saurabh.jpg",
+            "imgSrc": "/assets/hcm23/saurabh.jpg",
             "name": "Saurabh Bakolia",
             "position": "General Secretary Social and Cultural",
             "f_link": "",
@@ -178,7 +178,7 @@
             "email_link": "mailto:saurabhbakolia2002@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/DasAditya.jpg",
+            "imgSrc": "/assets/hcm23/DasAditya.jpg",
             "name": "Das Aditya Manoj",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/profile.php?id=100028712310561",
@@ -186,7 +186,7 @@
             "email_link": "mailto:adityadas.c24@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/Jeykishore3.jpg",
+            "imgSrc": "/assets/hcm23/Jeykishore3.jpg",
             "name": "Jeykishore Subramanyam",
             "position": "General Secretary Maintenance",
             "f_link": "https://www.facebook.com/jeykishore.subramanyam",
@@ -194,7 +194,7 @@
             "email_link": "mailto:jeykishoresubramanyam@gmail.com"
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/rishikiran.jpg",
+            "imgSrc": "/assets/hcm23/rishikiran.jpg",
             "name": "Rishi Kiran Yenagandula",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/linnu1103",
@@ -202,7 +202,7 @@
             "email_link": "mailto:rishikiran1103@gmail.com "
         }, {
             "year": 2023,
-            "imgSrc": "../assets/hcm23/Prayash.jpg",
+            "imgSrc": "/assets/hcm23/Prayash.jpg",
             "name": "Prayash Chandra Pradhan",
             "position": "General Secretary Mess",
             "f_link": "",
@@ -210,7 +210,7 @@
             "email_link": "mailto:ppadhan85@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/tNaik.jpg",
+            "imgSrc": "/assets/hcm22/tNaik.jpg",
             "name": "Tharun Naik",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/tharun.naik.589",
@@ -218,7 +218,7 @@
             "email_link": "mailto:itistheinventor@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/akSingh.jpg",
+            "imgSrc": "/assets/hcm22/akSingh.jpg",
             "name": "Anuj Kumar Singh",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/anuj.kumar.1999",
@@ -226,7 +226,7 @@
             "email_link": "mailto:anujsharanamu@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/usChauhan.png",
+            "imgSrc": "/assets/hcm22/usChauhan.png",
             "name": "Utkarsh Singh Chauhan",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/profile.php?id=100009999278580",
@@ -234,7 +234,7 @@
             "email_link": "mailto:utkarshshauhan11112@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/aKatewa.png",
+            "imgSrc": "/assets/hcm22/aKatewa.png",
             "name": "Ankit Katewa",
             "position": "General Secretary Social and Cultural",
             "f_link": "https://www.facebook.com/ankit.katewa.0",
@@ -242,7 +242,7 @@
             "email_link": "mailto:ankitmatrix3@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/sSaurav.png",
+            "imgSrc": "/assets/hcm22/sSaurav.png",
             "name": "Shubham Saurav",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/shubham.saurav.106",
@@ -250,7 +250,7 @@
             "email_link": "mailto:sssaurav5778@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/gSingh.jpg",
+            "imgSrc": "/assets/hcm22/gSingh.jpg",
             "name": "Gurjot Singh",
             "position": "General Secretary Alumni Affairs",
             "f_link": "https://www.facebook.com/profile.php?id=100039019936082",
@@ -258,7 +258,7 @@
             "email_link": "mailto:Gurjot91201@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/dRithvik.png",
+            "imgSrc": "/assets/hcm22/dRithvik.png",
             "name": "Dandari Rithvik",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/rithvik.champion.9",
@@ -266,7 +266,7 @@
             "email_link": "mailto:drithvikchampion@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/jSardhar.png",
+            "imgSrc": "/assets/hcm22/jSardhar.png",
             "name": "Jarpula Sardhar",
             "position": "General Secretary Maintenance",
             "f_link": "https://www.facebook.com/jarupula.s.naik",
@@ -274,7 +274,7 @@
             "email_link": "mailto:jarpulasardhar@gmail.com"
         }, {
             "year": 2022,
-            "imgSrc": "../assets/hcm22/bSampath.png",
+            "imgSrc": "/assets/hcm22/bSampath.png",
             "name": "Boda Sampath",
             "position": "General Secretary Mess",
             "f_link": "https://www.facebook.com/sampathnayak.nayak.39",
@@ -282,7 +282,7 @@
             "email_link": "mailto:sampathboda1105@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/aDeep.jpg",
+            "imgSrc": "/assets/hcm21/aDeep.jpg",
             "name": "Anubhav Deep",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/anubhav.deep1",
@@ -290,7 +290,7 @@
             "email_link": "mailto:anubhavdeep.singh.karnal@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/sTidke.jpg",
+            "imgSrc": "/assets/hcm21/sTidke.jpg",
             "name": "Samadhan Tidke",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/samadhan.tidke.10",
@@ -298,7 +298,7 @@
             "email_link": "mailto:samadhantidke54@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/tNaik.jpg",
+            "imgSrc": "/assets/hcm21/tNaik.jpg",
             "name": "Tharun Naik",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/tharun.naik.589",
@@ -306,7 +306,7 @@
             "email_link": "mailto:itistheinventor@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/akSingh.jpg",
+            "imgSrc": "/assets/hcm21/akSingh.jpg",
             "name": "Anuj Kumar Singh",
             "position": "General Secretary Social and Cultural",
             "f_link": "https://www.facebook.com/anuj.kumar.1999",
@@ -314,7 +314,7 @@
             "email_link": "mailto:anujsharanamu@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/mGupta.jpg",
+            "imgSrc": "/assets/hcm21/mGupta.jpg",
             "name": "Mudit Gupta",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/mudit.gupta.1800",
@@ -322,7 +322,7 @@
             "email_link": "mailto:muditgupta140@gmail.com"
         }, {
             "year": 2021,
-            "imgSrc": "../assets/hcm21/aDachepally.jpg",
+            "imgSrc": "/assets/hcm21/aDachepally.jpg",
             "name": "Abhilash Dachepally",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/abhilashvarma0",
@@ -330,7 +330,7 @@
             "email_link": "mailto:abhilashdachepally@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/aKaushal.jpeg",
+            "imgSrc": "/assets/hcm20/aKaushal.jpeg",
             "name": "Abhishek Kaushal",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/abhishek.kaushal.9256",
@@ -338,7 +338,7 @@
             "email_link": "mailto:abhishekkaushal98.ak@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/sBhattacharya.jpeg",
+            "imgSrc": "/assets/hcm20/sBhattacharya.jpeg",
             "name": "Shubhram Bhattacharya",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/profile.php?id=100012719321826",
@@ -346,7 +346,7 @@
             "email_link": "mailto:shubh.bhatta@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/sTidke.jpg",
+            "imgSrc": "/assets/hcm20/sTidke.jpg",
             "name": "Samadhan Tidke",
             "position": "General Secretary Social and Cultural",
             "f_link": "https://www.facebook.com/samadhan.tidke.10",
@@ -354,7 +354,7 @@
             "email_link": "mailto:samadhantidke54@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/aDeep.jpg",
+            "imgSrc": "/assets/hcm20/aDeep.jpg",
             "name": "Anubhav Deep",
             "position": "General Secretary Alumni Affairs",
             "f_link": "https://www.facebook.com/anubhav.deep1",
@@ -362,7 +362,7 @@
             "email_link": "mailto:anubhavdeep.singh.karnal@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/nKumar.jpeg",
+            "imgSrc": "/assets/hcm20/nKumar.jpeg",
             "name": "Nishant Kumar",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/profile.php?id=100004672473599",
@@ -370,7 +370,7 @@
             "email_link": "mailto:kumarnishant8821@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/sstJuluri.jpeg",
+            "imgSrc": "/assets/hcm20/sstJuluri.jpeg",
             "name": "Shree Shiva Teja Juluri",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/profile.php?id=100017420234281",
@@ -378,7 +378,7 @@
             "email_link": "mailto:jshreeshivateja@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/nRaj.jpeg",
+            "imgSrc": "/assets/hcm20/nRaj.jpeg",
             "name": "Nishchay Raj",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/nischay.raj.7",
@@ -386,7 +386,7 @@
             "email_link": "mailto:nischayrajmuz17@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/vsRaj.jpeg",
+            "imgSrc": "/assets/hcm20/vsRaj.jpeg",
             "name": "Varun Satya Raj",
             "position": "General Secretary Maintenance",
             "f_link": "https://www.facebook.com/varunsatyaraj.bavana.3",
@@ -394,7 +394,7 @@
             "email_link": "mailto:satyarajvarun@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/hVenkata.jpeg",
+            "imgSrc": "/assets/hcm20/hVenkata.jpeg",
             "name": "Harshith Venkata",
             "position": "General Secretary Library and Gardening",
             "f_link": "https://www.facebook.com/profile.php?id=100009298481575",
@@ -402,7 +402,7 @@
             "email_link": "mailto:bvharshith610@gmail.com"
         }, {
             "year": 2020,
-            "imgSrc": "../assets/hcm20/mKarthik.jpeg",
+            "imgSrc": "/assets/hcm20/mKarthik.jpeg",
             "name": "Murali Karthik",
             "position": "General Secretary Mess",
             "f_link": "#",
@@ -410,7 +410,7 @@
             "email_link": "mailto:gmk.muralikarthik@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/aGarg.jpg",
+            "imgSrc": "/assets/hcm19/aGarg.jpg",
             "name": "Aman Garg",
             "position": "Hall President",
             "f_link": "https://www.facebook.com/aman.garg.37051",
@@ -418,7 +418,7 @@
             "email_link": "mailto:amangarg0212@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/sPise.jpg",
+            "imgSrc": "/assets/hcm19/sPise.jpg",
             "name": "Shivraj Pise",
             "position": "Second Senate Member",
             "f_link": "https://www.facebook.com/shivrajnpise",
@@ -426,7 +426,7 @@
             "email_link": "mailto:Shivrajpise@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/aKaushal.jpeg",
+            "imgSrc": "/assets/hcm19/aKaushal.jpeg",
             "name": "Abhishek Kaushal",
             "position": "General Secretary Student's Welfare",
             "f_link": "https://www.facebook.com/abhishek.kaushal.9256",
@@ -434,7 +434,7 @@
             "email_link": "mailto:abhishekkaushal98.ak@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/sBhattacharya.jpeg",
+            "imgSrc": "/assets/hcm19/sBhattacharya.jpeg",
             "name": "Shubhram Bhattacharya",
             "position": "General Secretary Mess",
             "f_link": "https://www.facebook.com/profile.php?id=100012719321826",
@@ -442,7 +442,7 @@
             "email_link": "mailto:shubh.bhatta@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/pSinha.jpg",
+            "imgSrc": "/assets/hcm19/pSinha.jpg",
             "name": "Prithwi Sinha",
             "position": "General Secretary Technology",
             "f_link": "https://www.facebook.com/profile.php?id=100004609236252",
@@ -450,7 +450,7 @@
             "email_link": "mailto:sinhaprithwi@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/sBansal.jpg",
+            "imgSrc": "/assets/hcm19/sBansal.jpg",
             "name": "Srijan Bansal",
             "position": "General Secretary Sports and Games",
             "f_link": "https://www.facebook.com/srijan.bansal.73",
@@ -458,7 +458,7 @@
             "email_link": "mailto:srijanbansal97@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/rPatidar.jpeg",
+            "imgSrc": "/assets/hcm19/rPatidar.jpeg",
             "name": "Rupesh Patidar",
             "position": "General Secretary Social and Cultural",
             "f_link": "#",
@@ -466,7 +466,7 @@
             "email_link": "mailto:rupeshpatidar1697@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/rSharma.jpg",
+            "imgSrc": "/assets/hcm19/rSharma.jpg",
             "name": "Rohit Sharma",
             "position": "General Secretary Maintenance",
             "f_link": "https://www.facebook.com/irohitsharma16",
@@ -474,7 +474,7 @@
             "email_link": "mailto:rohit161097@gmail.com"
         }, {
             "year": 2019,
-            "imgSrc": "../assets/hcm19/mPrajapat.jpg",
+            "imgSrc": "/assets/hcm19/mPrajapat.jpg",
             "name": "Manish Prajapat",
             "position": "General Secretary Library",
             "f_link": "https://www.facebook.com/profile.php?id=100004547016855",
