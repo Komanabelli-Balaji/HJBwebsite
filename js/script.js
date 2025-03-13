@@ -12,17 +12,17 @@ hamburger.addEventListener("click", () => {
     menuToggle.classList.toggle("closeIcon")
 });
 
-bi_arrow_right.onclick = function () {
-    ulist.classList.add("overlay");
-    ulist.classList.remove("ulist");
-    sub_ulist.classList.toggle('sub-ulist');
-}
+// bi_arrow_right.onclick = function () {
+//     ulist.classList.add("overlay");
+//     ulist.classList.remove("ulist");
+//     sub_ulist.classList.toggle('sub-ulist');
+// }
 
-bi_arrow_left.onclick = function () {
-    ulist.classList.remove("overlay");
-    ulist.classList.add("ulist");
-    sub_ulist.classList.toggle('sub-ulist');
-}
+// bi_arrow_left.onclick = function () {
+//     ulist.classList.remove("overlay");
+//     ulist.classList.add("ulist");
+//     sub_ulist.classList.toggle('sub-ulist');
+// }
 
 
 
